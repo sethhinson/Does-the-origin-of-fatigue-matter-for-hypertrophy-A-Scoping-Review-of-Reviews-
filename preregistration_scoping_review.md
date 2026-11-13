@@ -4,7 +4,7 @@
 
 **Author(s):** Seth Hinson; Scott Mikula; Kristen Dunsmore; Zac Robinson; Micheal Hall; Eric Helms; Joseph Carzoli; Michael C. Zourdos
 **Affiliation:** Muscle Physiology Laboratory, Florida Atlantic University
-**Date:** *[fill in at registration]*
+**Date:** 11/13/2026
 **Reporting guideline:** PRISMA Extension for Scoping Reviews (PRISMA-ScR; Tricco et al., 2018)
 **Status:** Pre-data-collection registration
 
